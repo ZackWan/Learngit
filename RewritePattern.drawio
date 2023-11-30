@@ -1,39 +1,120 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T07:02:08.537Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="V_0vrobOWT9BW47gb2aQ" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T09:45:59.563Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="bNfVTIg2aD2Ysb7wSdyo" version="22.1.3" type="github">
   <diagram name="Page-1" id="DxE3iIKvWCXVfC5Ny44k">
     <mxGraphModel dx="1354" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Lar3wEtWybTDCuJ2HaA1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lar3wEtWybTDCuJ2HaA1-1" target="Lar3wEtWybTDCuJ2HaA1-2">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-29" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1270" width="370" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-19" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1000" width="550" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-12" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="520" width="330" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-13" value="torch/csrc/autograd/engine.cpp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="535" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-8" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="330" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-9" value="torch/autograd/__init__.py" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="535" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-4" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="30" y="520" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar3wEtWybTDCuJ2HaA1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Lar3wEtWybTDCuJ2HaA1-1" target="Lar3wEtWybTDCuJ2HaA1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lar3wEtWybTDCuJ2HaA1-1" value="toy language code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lar3wEtWybTDCuJ2HaA1-1" value="toy language code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lar3wEtWybTDCuJ2HaA1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar3wEtWybTDCuJ2HaA1-2" target="Lar3wEtWybTDCuJ2HaA1-11">
+        <mxCell id="Lar3wEtWybTDCuJ2HaA1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Lar3wEtWybTDCuJ2HaA1-2" target="Lar3wEtWybTDCuJ2HaA1-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lar3wEtWybTDCuJ2HaA1-2" value="AST" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Lar3wEtWybTDCuJ2HaA1-2" value="AST" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lar3wEtWybTDCuJ2HaA1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lar3wEtWybTDCuJ2HaA1-4">
+        <mxCell id="Lar3wEtWybTDCuJ2HaA1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Lar3wEtWybTDCuJ2HaA1-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="295" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lar3wEtWybTDCuJ2HaA1-4" value="lex、parse" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Lar3wEtWybTDCuJ2HaA1-4" value="lex、parse" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="50" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Lar3wEtWybTDCuJ2HaA1-11" value="MLIR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Lar3wEtWybTDCuJ2HaA1-11" value="MLIR" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lar3wEtWybTDCuJ2HaA1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lar3wEtWybTDCuJ2HaA1-14">
+        <mxCell id="Lar3wEtWybTDCuJ2HaA1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Lar3wEtWybTDCuJ2HaA1-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="555" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lar3wEtWybTDCuJ2HaA1-14" value="dialect" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Lar3wEtWybTDCuJ2HaA1-14" value="dialect" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="50" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-2" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;auto &lt;span style=&quot;color: #4ec9b0;&quot;&gt;Engine&lt;/span&gt;::&lt;span style=&quot;color: #dcdcaa;&quot;&gt;execute&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ChIQ4_hsvJZt-wBD8TQ4-3" target="ChIQ4_hsvJZt-wBD8TQ4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-3" value="Tensor.backward" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-5" value="torch/_tensor.py" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ChIQ4_hsvJZt-wBD8TQ4-6" target="ChIQ4_hsvJZt-wBD8TQ4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-6" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;torch.&lt;span style=&quot;color: #4ec9b0;&quot;&gt;autograd&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;backward&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="600" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-10" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;Variable.&lt;span style=&quot;color: #9cdcfe;&quot;&gt;_execution_engine&lt;/span&gt;.run_backward&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="600" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-16" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="25" y="780" width="365" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-17" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;_C._initExtension(&lt;span style=&quot;color: #dcdcaa;&quot;&gt;manager_path&lt;/span&gt;())&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="860" width="325" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-18" value="torch/__init__.py" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ChIQ4_hsvJZt-wBD8TQ4-20" target="ChIQ4_hsvJZt-wBD8TQ4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-20" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;PyObject&lt;span style=&quot;color: #569cd6;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #dcdcaa;&quot;&gt;initModule&lt;/span&gt;()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="1080" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-21" value="torch/csrc/Module.cpp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-24" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;THPUtils_addPyMethodDefs(&lt;span style=&quot;color: #9cdcfe;&quot;&gt;methods&lt;/span&gt;, &lt;span style=&quot;color: #9cdcfe;&quot;&gt;TorchMethods&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1200" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ChIQ4_hsvJZt-wBD8TQ4-26" target="ChIQ4_hsvJZt-wBD8TQ4-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-26" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;&lt;div&gt;static &lt;span style=&quot;color: #4ec9b0;&quot;&gt;PyObject&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #dcdcaa;&quot;&gt;THPModule_initExtension&lt;/span&gt;(&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #4ec9b0;&quot;&gt;PyObject&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;_unused&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #4ec9b0;&quot;&gt;PyObject&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;shm_manager_path&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1320" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=16;endSize=5.39;strokeWidth=1;" edge="1" parent="1" source="ChIQ4_hsvJZt-wBD8TQ4-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="1340" as="sourcePoint" />
+            <mxPoint x="850" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-30" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;void &lt;span style=&quot;color: #dcdcaa;&quot;&gt;initialize_python_bindings&lt;/span&gt;()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1350" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-31" value="torch/csrc/tensor/python_tensor.cpp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
