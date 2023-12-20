@@ -1,28 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T09:45:59.563Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="bNfVTIg2aD2Ysb7wSdyo" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T02:26:36.317Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Dv0XMgRukC-ExgFJ28ON" version="22.1.7" type="github">
   <diagram name="Page-1" id="DxE3iIKvWCXVfC5Ny44k">
-    <mxGraphModel dx="1354" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-29" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-57" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="78" y="2300" width="552" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-53" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="670" y="2220" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-18" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1740" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-6" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1660" width="460" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-29" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1270" width="370" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-19" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-19" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="440" y="1000" width="550" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-12" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-12" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="1180" y="520" width="330" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-13" value="torch/csrc/autograd/engine.cpp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-13" value="torch/csrc/autograd/engine.cpp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1255" y="535" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-8" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-8" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="400" y="520" width="330" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-9" value="torch/autograd/__init__.py" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-9" value="torch/autograd/__init__.py" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="535" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-4" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-4" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="30" y="520" width="290" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Lar3wEtWybTDCuJ2HaA1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Lar3wEtWybTDCuJ2HaA1-1" target="Lar3wEtWybTDCuJ2HaA1-2" edge="1">
@@ -56,65 +68,200 @@
         <mxCell id="Lar3wEtWybTDCuJ2HaA1-14" value="dialect" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="50" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-2" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;auto &lt;span style=&quot;color: #4ec9b0;&quot;&gt;Engine&lt;/span&gt;::&lt;span style=&quot;color: #dcdcaa;&quot;&gt;execute&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-2" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;auto &lt;span style=&quot;color: #4ec9b0;&quot;&gt;Engine&lt;/span&gt;::&lt;span style=&quot;color: #dcdcaa;&quot;&gt;execute&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="310" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ChIQ4_hsvJZt-wBD8TQ4-3" target="ChIQ4_hsvJZt-wBD8TQ4-6">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ChIQ4_hsvJZt-wBD8TQ4-3" target="ChIQ4_hsvJZt-wBD8TQ4-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-3" value="Tensor.backward" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-3" value="Tensor.backward" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-5" value="torch/_tensor.py" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-5" value="torch/_tensor.py" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ChIQ4_hsvJZt-wBD8TQ4-6" target="ChIQ4_hsvJZt-wBD8TQ4-10">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ChIQ4_hsvJZt-wBD8TQ4-6" target="ChIQ4_hsvJZt-wBD8TQ4-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-6" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;torch.&lt;span style=&quot;color: #4ec9b0;&quot;&gt;autograd&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;backward&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-6" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;torch.&lt;span style=&quot;color: #4ec9b0;&quot;&gt;autograd&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;backward&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="600" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-10" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;Variable.&lt;span style=&quot;color: #9cdcfe;&quot;&gt;_execution_engine&lt;/span&gt;.run_backward&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-10" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;Variable.&lt;span style=&quot;color: #9cdcfe;&quot;&gt;_execution_engine&lt;/span&gt;.run_backward&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="600" width="380" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-16" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-16" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="25" y="780" width="365" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-17" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;_C._initExtension(&lt;span style=&quot;color: #dcdcaa;&quot;&gt;manager_path&lt;/span&gt;())&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-17" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;_C._initExtension(&lt;span style=&quot;color: #dcdcaa;&quot;&gt;manager_path&lt;/span&gt;())&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="860" width="325" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-18" value="torch/__init__.py" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-18" value="torch/__init__.py" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="45" y="790" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ChIQ4_hsvJZt-wBD8TQ4-20" target="ChIQ4_hsvJZt-wBD8TQ4-24">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ChIQ4_hsvJZt-wBD8TQ4-20" target="ChIQ4_hsvJZt-wBD8TQ4-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-20" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;PyObject&lt;span style=&quot;color: #569cd6;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #dcdcaa;&quot;&gt;initModule&lt;/span&gt;()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-20" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;PyObject&lt;span style=&quot;color: #569cd6;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #dcdcaa;&quot;&gt;initModule&lt;/span&gt;()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="1080" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-21" value="torch/csrc/Module.cpp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-21" value="torch/csrc/Module.cpp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="1010" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-24" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;THPUtils_addPyMethodDefs(&lt;span style=&quot;color: #9cdcfe;&quot;&gt;methods&lt;/span&gt;, &lt;span style=&quot;color: #9cdcfe;&quot;&gt;TorchMethods&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-24" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;THPUtils_addPyMethodDefs(&lt;span style=&quot;color: #9cdcfe;&quot;&gt;methods&lt;/span&gt;, &lt;span style=&quot;color: #9cdcfe;&quot;&gt;TorchMethods&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="1200" width="490" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ChIQ4_hsvJZt-wBD8TQ4-26" target="ChIQ4_hsvJZt-wBD8TQ4-30">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ChIQ4_hsvJZt-wBD8TQ4-26" target="ChIQ4_hsvJZt-wBD8TQ4-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-26" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;&lt;div&gt;static &lt;span style=&quot;color: #4ec9b0;&quot;&gt;PyObject&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #dcdcaa;&quot;&gt;THPModule_initExtension&lt;/span&gt;(&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #4ec9b0;&quot;&gt;PyObject&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;_unused&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #4ec9b0;&quot;&gt;PyObject&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;shm_manager_path&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-26" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;&lt;div&gt;static &lt;span style=&quot;color: #4ec9b0;&quot;&gt;PyObject&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #dcdcaa;&quot;&gt;THPModule_initExtension&lt;/span&gt;(&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #4ec9b0;&quot;&gt;PyObject&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;_unused&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    &lt;span style=&quot;color: #4ec9b0;&quot;&gt;PyObject&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #9cdcfe;&quot;&gt;shm_manager_path&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="1320" width="390" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=16;endSize=5.39;strokeWidth=1;" edge="1" parent="1" source="ChIQ4_hsvJZt-wBD8TQ4-26">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=16;endSize=5.39;strokeWidth=1;" parent="1" source="ChIQ4_hsvJZt-wBD8TQ4-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="1340" as="sourcePoint" />
             <mxPoint x="850" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-30" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;void &lt;span style=&quot;color: #dcdcaa;&quot;&gt;initialize_python_bindings&lt;/span&gt;()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-30" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 18px; line-height: 24px;&quot;&gt;void &lt;span style=&quot;color: #dcdcaa;&quot;&gt;initialize_python_bindings&lt;/span&gt;()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="1350" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-31" value="torch/csrc/tensor/python_tensor.cpp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ChIQ4_hsvJZt-wBD8TQ4-31" value="torch/csrc/tensor/python_tensor.cpp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1120" y="1280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-1" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1690" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-2" target="8K7rvJWfkNBqAx2Cw8N4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-2" target="8K7rvJWfkNBqAx2Cw8N4-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-2" target="8K7rvJWfkNBqAx2Cw8N4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-2" value="CreateAllParser()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-3" value="tools/mm_translate/mm_translate_main.cc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-4" target="8K7rvJWfkNBqAx2Cw8N4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-4" value="main()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-7" value="CreateParser&amp;lt;ParserKind::ONNX&amp;gt;()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1780" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-8" value="cc/internal/mm_parser.cc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-13" value="CreateParser&amp;lt;ParserKind::CAFFE&amp;gt;()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1720" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-14" target="8K7rvJWfkNBqAx2Cw8N4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-14" value="CreateParser&amp;lt;ParserKind::PYTORCH&amp;gt;()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1840" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-17" value="CreateParser&amp;lt;ParserKind::TENSORFLOW&amp;gt;()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1900" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-19" value="RegisterFromPytorchTranslation()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="865" y="1785" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-20" value="cc/internal/mm_pytorch_parser.cc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="925" y="1750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-22" target="8K7rvJWfkNBqAx2Cw8N4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-22" value="CreatePytorchParser()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1780" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-40" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="665" y="2050" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-41" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="345" y="2050" width="300" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-42" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="65" y="2060" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-44" target="8K7rvJWfkNBqAx2Cw8N4-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-44" value="RegisterFromPytorchTranslation()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2105" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-45" value="cc/internal/mm_pytorch_parser.cc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-47" target="8K7rvJWfkNBqAx2Cw8N4-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-47" value="PytorchToMlirTranslateFunction()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="388.75" y="2190" width="197.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-48" value="translation/pytorch/translate_registration.cc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="2060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-50" target="8K7rvJWfkNBqAx2Cw8N4-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="2120" />
+              <mxPoint x="620" y="2170" />
+              <mxPoint x="369" y="2170" />
+              <mxPoint x="369" y="2220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-50" value="PytorchToMlirTranslateFunctionRegistry()" style="rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="365" y="2090" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-51" value="conversion/parser/pytorch_parser_pipeline.cc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="765" y="2060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-52" target="8K7rvJWfkNBqAx2Cw8N4-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="2120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="2120" />
+              <mxPoint x="980" y="2290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-52" value="RunPytorchLegalizationPipeline()" style="rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="685" y="2090" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-54" value="conversion/parser/parser_base.cc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="2225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-55" target="8K7rvJWfkNBqAx2Cw8N4-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="2480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-55" value="CreateConversionLegalizationPipeline()" style="rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2260" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-58" value="dialect/parser/transforms/identity_insert_remove.cc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="2300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-59" value="CreateIdentityInsertPass()" style="rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2355" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-71" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;struct IdentityInsertPass :&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;public IdentityInsertBase&amp;lt;IdentityInsertPass&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: center; background-color: initial;&quot;&gt;IdentityInsertPass&lt;/span&gt;() {}&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;runOnFunction() override {}&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="88" y="2340" width="278" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-77" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-59" target="8K7rvJWfkNBqAx2Cw8N4-71">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="430" y="2500" as="sourcePoint" />
+            <mxPoint x="675" y="2490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
