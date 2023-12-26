@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T02:26:36.317Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Dv0XMgRukC-ExgFJ28ON" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T08:08:49.968Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="gnwxGEnhzCUfqH9Dc4bq" version="22.1.7" type="github">
   <diagram name="Page-1" id="DxE3iIKvWCXVfC5Ny44k">
     <mxGraphModel dx="1354" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -262,6 +262,54 @@
             <mxPoint x="430" y="2500" as="sourcePoint" />
             <mxPoint x="675" y="2490" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-79" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="25" y="2593" width="403" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-80" value="TestResult YamlExecutor::Run(std::stringstream&amp;amp; error_msg){&lt;br&gt;auto network = network_builder-&amp;gt;BuildNetwork();&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="47" y="2638" width="353" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-81" value="magicmind/magicmind/test/test_cc/client/executor/yaml_executor.cc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="2597" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-82" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="513.5" y="2593" width="403" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-84" value="magicmind/magicmind/test/test_cc/client/executor/yaml_executor.cc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="671" y="2597" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-85" value="TestResult DefaultExecutor::Run(std::stringstream&amp;amp; error_msg){&lt;br&gt;auto network = network_builder-&amp;gt;BuildNetwork();&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="529" y="2638" width="353" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-89" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="282" y="2794" width="345" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-90" value="magicmind/magicmind/test/test_cc/client/test.cc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-91" value="magicmind::INetwork* AbstractTest::BuildNetwork()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="296" y="2839" width="300.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-82" target="8K7rvJWfkNBqAx2Cw8N4-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-79" target="8K7rvJWfkNBqAx2Cw8N4-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-94" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="282" y="2958" width="345" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-95" value="magicmind/test/test_cc/client/ops/onnx_parser.cc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2964" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-96" value="bool OnnxParserTest::RegImpl()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="3003" width="211" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-89" target="8K7rvJWfkNBqAx2Cw8N4-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-98" value="-cases_format=yaml" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="157" y="2559" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
