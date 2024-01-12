@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T02:59:10.726Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="d_ND86xKnIrZf_gTnWor" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T09:19:37.354Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="8MYpYFa2gF6CrcChvwN3" version="22.1.7" type="github">
   <diagram name="Page-1" id="DxE3iIKvWCXVfC5Ny44k">
     <mxGraphModel dx="2145" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -399,16 +399,18 @@
           <mxGeometry y="75" width="343.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="8K7rvJWfkNBqAx2Cw8N4-136" value="&lt;div style=&quot;border-color: var(--border-color); font-weight: 700;&quot;&gt;template &amp;lt;typename TFilter, typename THyperParams&amp;gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-weight: 700;&quot;&gt;class Layer : public LayerBase&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="532" y="3779" width="325" height="64" as="geometry" />
+          <mxGeometry x="437.5" y="3779" width="325" height="64" as="geometry" />
         </mxCell>
         <mxCell id="8K7rvJWfkNBqAx2Cw8N4-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-137" target="8K7rvJWfkNBqAx2Cw8N4-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8K7rvJWfkNBqAx2Cw8N4-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-137" target="8K7rvJWfkNBqAx2Cw8N4-136">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="772.5" y="3872" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="8K7rvJWfkNBqAx2Cw8N4-137" value="&lt;div style=&quot;border-color: var(--border-color); font-weight: 700;&quot;&gt;&lt;p style=&quot;border-color: var(--border-color); font-weight: 400; margin: 4px 0px 0px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;class GptDecoder : public Layer&amp;lt;GptDecoderFilter, GptDecoderSettings&amp;gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="534" y="3882" width="325" height="64" as="geometry" />
+          <mxGeometry x="612" y="3911" width="325" height="64" as="geometry" />
         </mxCell>
         <mxCell id="8K7rvJWfkNBqAx2Cw8N4-139" value="&lt;b&gt;struct GptDecoderSettings&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1148" y="3770" width="170" height="60" as="geometry" />
@@ -417,28 +419,72 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8K7rvJWfkNBqAx2Cw8N4-146" value="&lt;b&gt;struct GptContextDecoderBlockHyperParam : public GptDecoderSettings&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="988" y="3934" width="239" height="60" as="geometry" />
+          <mxGeometry x="990" y="3934" width="239" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8K7rvJWfkNBqAx2Cw8N4-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-148" target="8K7rvJWfkNBqAx2Cw8N4-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8K7rvJWfkNBqAx2Cw8N4-148" value="&lt;b&gt;struct GptGenerateDecoderBlockHyperParam : public GptDecoderSettings&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1293" y="3934" width="239" height="60" as="geometry" />
+          <mxGeometry x="1245" y="3934" width="239" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-150" target="8K7rvJWfkNBqAx2Cw8N4-137">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-204" target="8K7rvJWfkNBqAx2Cw8N4-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="565.5" y="4060" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="667" y="4029" />
+              <mxPoint x="775" y="4029" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-150" value="&lt;div style=&quot;border-color: var(--border-color); font-weight: 700;&quot;&gt;&lt;p style=&quot;border-color: var(--border-color); font-weight: 400; margin: 4px 0px 0px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;class GptContextDecoder : public GptDecoder&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="4031" width="325" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-152" target="8K7rvJWfkNBqAx2Cw8N4-137">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-152" value="&lt;div style=&quot;border-color: var(--border-color); font-weight: 700;&quot;&gt;&lt;p style=&quot;border-color: var(--border-color); font-weight: 400; margin: 4px 0px 0px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;class GptGenerateDecoder : public GptDecoder&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="695" y="4031" width="325" height="64" as="geometry" />
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-154" target="8K7rvJWfkNBqAx2Cw8N4-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="935.5" y="4060" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="885" y="4029" />
+              <mxPoint x="775" y="4029" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8K7rvJWfkNBqAx2Cw8N4-154" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;class GptGenerateDecoder : public GptDecoder&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="768" y="4197" width="140" height="109" as="geometry" />
+          <mxGeometry x="815" y="4056" width="140" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-202" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;class LogitProcess&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="454" y="4292" width="140" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-203" target="8K7rvJWfkNBqAx2Cw8N4-136">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="3876" />
+              <mxPoint x="600" y="3876" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-203" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;class EmbeddingLayer : public Layer&amp;lt;EmbeddingFilter, EmbeddingHyperParam&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="273" y="3909.5" width="294" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-204" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;class GptContextDecoder : public GptDecoder&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="596.5" y="4056" width="140" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-206" target="8K7rvJWfkNBqAx2Cw8N4-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1214" y="4042" />
+              <mxPoint x="1537" y="4042" />
+              <mxPoint x="1537" y="3857" />
+              <mxPoint x="1276" y="3857" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8K7rvJWfkNBqAx2Cw8N4-206" target="8K7rvJWfkNBqAx2Cw8N4-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1144" y="4010" />
+              <mxPoint x="856" y="4010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8K7rvJWfkNBqAx2Cw8N4-206" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;class GptTpDecoder&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="4070" width="140" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
